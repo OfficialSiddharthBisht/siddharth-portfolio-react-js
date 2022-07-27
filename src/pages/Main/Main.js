@@ -8,7 +8,7 @@ import {
   About,
   Skills,
   // Testimonials,
-  Blog,
+  // Blog,
   Education,
   // Experience,
   Contacts,
@@ -28,7 +28,7 @@ function Main() {
       {/* <Services /> */}
       <Education />
       <Projects />
-      <Blog />
+      {/* <Blog /> */}
       <Contacts />
       <Footer />
       {/* <Experience /> */}

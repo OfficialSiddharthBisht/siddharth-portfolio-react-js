@@ -6,9 +6,8 @@ export const socialsData = {
   // codepen: 'https://codepen.io/',
   // twitter: 'https://twitter.com/KoteRenu',
   // reddit: 'https://www.reddit.com/user/',
-  // blogger: 'https://renukote.blogspot.com/',
   medium: "https://medium.com/@officialsiddharthbisht",
   // stackOverflow: 'https://stackoverflow.com/users/',
   // gitlab: 'https://gitlab.com/',
-  // youtube: 'https://youtube.com/renukaprasad'
+  // youtube: 'https://youtube.com/',
 };
