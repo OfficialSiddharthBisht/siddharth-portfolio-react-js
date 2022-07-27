@@ -139,8 +139,8 @@ function Contacts() {
           template_id: "template_3ca0udb",
           user_id: "user_i32cigCput4Erat2GI4Yy",
           template_params: {
-            from_name: name,
-            from_email: email,
+            name: name,
+            email: email,
             message: message,
           },
         };
@@ -183,33 +183,33 @@ function Contacts() {
           <div className="contacts-form">
             <form onSubmit={handleContactForm}>
               <div className="input-container">
-                <label htmlFor="Name" className={classes.label}>
+                <label htmlFor="name" className={classes.label}>
                   Name
                 </label>
                 <input
-                  placeholder="John Doe"
+                  placeholder="Your Name"
                   value={name}
                   onChange={(e) => setName(e.target.value)}
                   type="text"
-                  name="Name"
+                  name="name"
                   className={`form-input ${classes.input}`}
                 />
               </div>
               <div className="input-container">
-                <label htmlFor="Email" className={classes.label}>
+                <label htmlFor="email" className={classes.label}>
                   Email
                 </label>
                 <input
-                  placeholder="John@doe.com"
+                  placeholder="youremail@text.com"
                   value={email}
                   onChange={(e) => setEmail(e.target.value)}
                   type="email"
-                  name="Email"
+                  name="email"
                   className={`form-input ${classes.input}`}
                 />
               </div>
               <div className="input-container">
-                <label htmlFor="Message" className={classes.label}>
+                <label htmlFor="message" className={classes.label}>
                   Message
                 </label>
                 <textarea
@@ -217,7 +217,7 @@ function Contacts() {
                   value={message}
                   onChange={(e) => setMessage(e.target.value)}
                   type="text"
-                  name="Message"
+                  name="message"
                   className={`form-message ${classes.message}`}
                 />
               </div>

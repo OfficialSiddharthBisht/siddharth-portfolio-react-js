@@ -13,7 +13,7 @@ export const projectsData = [
     id: 1,
     projectName: "Lumen 5 Clone",
     projectDesc: [
-      `A pixel to pixel visual replica of www.udemy.com with debouncing to minimize network requests`,
+      `Lumen5 is a video creation platform powered by A.I. that enables anyone without training or experience to easily create engaging video content within minutes.`,
       [
         "Team Lead",
         "Responsive landing page",
@@ -31,10 +31,10 @@ export const projectsData = [
     id: 2,
     projectName: "Discovery+ Clone",
     projectDesc: [
-      "All round Backend integrated clone mimicing the user flow and behavior of Udemy.com",
+      "Discovery+ is a streaming service. Discovery.The service focuses on factual programming drawn from the libraries of Discovery's main channel brands, as well as original series and other acquired content.",
       ["JSON Server + API Endpoints", "Data Fetching using API", "Search Series Functionality"],
     ],
-    tags: ["HTML", "CSS", "JavaScript", "JSON Server"],
+    tags: ["HTML", "CSS", "JavaScript"],
     code: "https://github.com/OfficialSiddharthBisht/Discovery-Clone",
     demo: "https://officialsiddharthbisht.github.io/Discovery-Clone/",
     image:
@@ -44,7 +44,7 @@ export const projectsData = [
     id: 3,
     projectName: "Expedia Travel Clone",
     projectDesc: [
-      "A two page clone of Rodanandfields.com with fully a functional cart and product carousel",
+      "Expedia Group, Inc. is an American online travel shopping company for consumer and small business travel. Its websites, which are primarily travel fare aggregators and travel metasearch engines",
       [
         "Version Control Using GIT",
         "Made Multiple Pages",
@@ -61,13 +61,13 @@ export const projectsData = [
     id: 4,
     projectName: "Tesla Clone",
     projectDesc: [
-      "A two page clone of Rodanandfields.com with fully a functional cart and product carousel",
+      "Tesla is accelerating the world's transition to sustainable energy with electric cars, solar and integrated renewable energy solutions for homes and businesses.",
       [
         "Solo Project",
         "Made Tesla Landing Page",
       ],
     ],
-    tags: ["React", "Redux", "Material UI"],
+    tags: ["React", "Redux"],
     code: "https://github.com/OfficialSiddharthBisht/tesla-clone",
     demo: "https://officialsiddharthbisht.github.io/Expedia-Travel-Clone/",
     image:
@@ -77,13 +77,13 @@ export const projectsData = [
     id: 4,
     projectName: "Weather App",
     projectDesc: [
-      "A two page clone of Rodanandfields.com with fully a functional cart and product carousel",
+      "A weather app that shows the weather of any city in the world.",
       [
         "Solo Project",
         "Made Tesla Landing Page",
       ],
     ],
-    tags: ["HTML" , "CSS" ,"JS" ,"REST APIs"],
+    tags: ["HTML" , "CSS" ,"JS"],
     code: "https://github.com/OfficialSiddharthBisht/summer-project-weather-app",
     demo: "https://officialsiddharthbisht.github.io/summer-project-weather-app/",
     image:
