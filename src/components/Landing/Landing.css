@@ -164,7 +164,7 @@
     justify-content: space-between;
   }
   .landing--img {
-    --img-size: 200px;
+    --img-size: 170px;
     left: 50%;
     top: 30%;
     border: 8px solid #eaeaea;
@@ -236,7 +236,7 @@
   }
 
   .landing--img {
-    --img-size: 150px;
+    --img-size: 140px;
     left: 50%;
     top: 20%;
   }
