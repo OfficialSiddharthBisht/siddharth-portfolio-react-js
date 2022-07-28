@@ -25,7 +25,7 @@ export const projectsData = [
     code: "https://github.com/OfficialSiddharthBisht/Lumen5-Video-Maker-Clone",
     demo: "https://officialsiddharthbisht.github.io/Lumen5-Video-Maker-Clone",
     image:
-      "https://user-images.githubusercontent.com/91539305/147107410-e2cf1961-f777-4e33-8a49-586a9a612cb5.gif",
+      "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F50wheel.com%2Fwp-content%2Fuploads%2F2018%2F05%2Flumen5-3.png&f=1&nofb=1",
   },
   {
     id: 2,
@@ -38,7 +38,7 @@ export const projectsData = [
     code: "https://github.com/OfficialSiddharthBisht/Discovery-Clone",
     demo: "https://officialsiddharthbisht.github.io/Discovery-Clone/",
     image:
-      "https://user-images.githubusercontent.com/91539305/147107410-e2cf1961-f777-4e33-8a49-586a9a612cb5.gif",
+      "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.dBgoyEfYljjeyDFAxa-twwHaEU%26pid%3DApi&f=1",
   },
   {
     id: 3,
@@ -55,7 +55,7 @@ export const projectsData = [
     code: "https://github.com/OfficialSiddharthBisht/Expedia-Travel-Clone",
     demo: "https://officialsiddharthbisht.github.io/Expedia-Travel-Clone/",
     image:
-      "https://raw.githubusercontent.com/Renukote/clone-rodanandfields.com/master/rodan-and-fields-thumbnail.png",
+      "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.Y2gvAVgkMcupwaefIabawQHaE6%26pid%3DApi&f=1",
   },
   {
     id: 4,
@@ -71,7 +71,7 @@ export const projectsData = [
     code: "https://github.com/OfficialSiddharthBisht/tesla-clone",
     demo: "https://officialsiddharthbisht.github.io/Expedia-Travel-Clone/",
     image:
-      "https://raw.githubusercontent.com/Renukote/clone-rodanandfields.com/master/rodan-and-fields-thumbnail.png",
+      "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.f9OvjIR-m7YLjEqv-wJL-QHaJq%26pid%3DApi&f=1",
   },
   {
     id: 4,
@@ -87,7 +87,7 @@ export const projectsData = [
     code: "https://github.com/OfficialSiddharthBisht/summer-project-weather-app",
     demo: "https://officialsiddharthbisht.github.io/summer-project-weather-app/",
     image:
-      "https://raw.githubusercontent.com/Renukote/clone-rodanandfields.com/master/rodan-and-fields-thumbnail.png",
+      "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.1VkjnHLGX38a5zirASIYWAHaFj%26pid%3DApi&f=1",
   },
 ];
 
