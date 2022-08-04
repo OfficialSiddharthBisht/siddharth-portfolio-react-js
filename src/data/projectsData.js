@@ -20,11 +20,11 @@ export const projectsData = [
         "Database using MongoDB",
       ],
     ],
-    tags: ["Mongo DB", "Express JS", "React-JS","Node JS","Redux"],
+    tags: ["Mongo DB", "Express JS", "React-JS","Node JS"],
     code: "https://github.com/OfficialSiddharthBisht/nykaa-clone",
     demo: "https://nykaa-web-app.netlify.app/",
     image:
-      "https://www.nykaa.com/?root=logo",
+      "https://www.bing.com/images/search?view=detailV2&ccid=aX%2bKC%2fr9&id=3B138DE4E222524C969856E2E48FD8D37D8EBE26&thid=OIP.aX-KC_r9rVmpU_D3Gy9GsgHaEK&mediaurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.697f8a0bfafdad59a953f0f71b2f46b2%3frik%3dJr6OfdPYj%252bTiVg%26riu%3dhttp%253a%252f%252fwww.startuparticle.com%252fwp-content%252fuploads%252f2019%252f05%252fnykaa-1200x600.jpg%26ehk%3dk6VL2QPKW8V%252fr0DB1F7Mpf2a7%252bHIc%252buO6qU%252f%252b1%252f6cdI%253d%26risl%3d%26pid%3dImgRaw%26r%3d0&exph=540&expw=960&q=nykaa&simid=608030261293558456&FORM=IRPRST&ck=D98452726DA662B78C43D91608F900EF&selectedIndex=5",
   },
   {
     id: 2,
