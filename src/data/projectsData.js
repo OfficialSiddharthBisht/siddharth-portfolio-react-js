@@ -20,7 +20,7 @@ export const projectsData = [
         "Database using MongoDB",
       ],
     ],
-    tags: ["MERN Stack"],
+    tags: ["React","Express","MongoDB","NodeJs"],
     code: "https://github.com/OfficialSiddharthBisht/nykaa-clone",
     demo: "https://nykaa-web-app.netlify.app/",
     image:
