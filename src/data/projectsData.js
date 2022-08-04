@@ -24,7 +24,7 @@ export const projectsData = [
     code: "https://github.com/OfficialSiddharthBisht/nykaa-clone",
     demo: "https://nykaa-web-app.netlify.app/",
     image:
-      "https://www.bing.com/images/search?q=nykaa%20website&qs=MT&form=QBIR&sp=1&pq=nykaa%20we&sc=10-8&cvid=AAC179347D534944829CF6D7ED0209CF&ghsh=0&ghacc=0&first=1&tsc=ImageHoverTitle",
+      "https://www.nykaa.com/?root=logo",
   },
   {
     id: 2,
