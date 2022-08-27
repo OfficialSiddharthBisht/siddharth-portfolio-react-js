@@ -30,12 +30,11 @@ export const projectsData = [
     id: 2,
     projectName: "Lumen 5 Clone",
     projectDesc: [
-      `Lumen5 is a video creation platform powered by A.I. that enables anyone without training or experience to easily create engaging video content within minutes.`,
+      `Lumen5 is a video creation platform powered by A.I. that enables anyone to create engaging video content`,
       [
         "Team Lead",
         "Responsive landing page",
         "All Video Elements",
-        "Navbar and Footer using modules",
       ],
     ],
     tags: ["JavaScript", "Tailwind", "HTML"],
@@ -48,7 +47,7 @@ export const projectsData = [
     id: 3,
     projectName: "Discovery+ Clone",
     projectDesc: [
-      "Discovery+ is a streaming service. Discovery.The service focuses on factual programming drawn from the libraries of Discovery's main channel brands, as well as original series and other acquired content.",
+      "Discovery+ is a streaming service.",
       ["JSON Server + API Endpoints", "Data Fetching using API", "Search Series Functionality"],
     ],
     tags: ["HTML", "CSS", "JavaScript"],
@@ -61,7 +60,7 @@ export const projectsData = [
     id: 4,
     projectName: "Expedia Travel Clone",
     projectDesc: [
-      "Expedia Group, Inc. is an American online travel shopping company for consumer and small business travel. Its websites, which are primarily travel fare aggregators and travel metasearch engines",
+      "Expedia Group, Inc. is an American online travel shopping company for consumer and small business travel.",
       [
         "Version Control Using GIT",
         "Made Multiple Pages",
