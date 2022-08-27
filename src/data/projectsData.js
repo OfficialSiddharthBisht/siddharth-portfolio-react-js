@@ -28,6 +28,22 @@ export const projectsData = [
   },
   {
     id: 2,
+    projectName: "Tesla Clone",
+    projectDesc: [
+      "Tesla is accelerating the world's transition to sustainable energy with electric cars, solar and integrated renewable energy solutions for homes and businesses.",
+      [
+        "Solo Project",
+        "Made Tesla Landing Page",
+      ],
+    ],
+    tags: ["React", "Redux"],
+    code: "https://github.com/OfficialSiddharthBisht/tesla-clone",
+    demo: "https://tesla-clone-rho.vercel.app/",
+    image:
+      "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.f9OvjIR-m7YLjEqv-wJL-QHaJq%26pid%3DApi&f=1",
+  },
+  {
+    id: 3,
     projectName: "Lumen 5 Clone",
     projectDesc: [
       `Lumen5 is a video creation platform powered by A.I. that enables anyone to create engaging video content`,
@@ -44,7 +60,7 @@ export const projectsData = [
       "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F50wheel.com%2Fwp-content%2Fuploads%2F2018%2F05%2Flumen5-3.png&f=1&nofb=1",
   },
   {
-    id: 3,
+    id: 4,
     projectName: "Discovery+ Clone",
     projectDesc: [
       "Discovery+ is a streaming service.",
@@ -57,7 +73,7 @@ export const projectsData = [
       "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.dBgoyEfYljjeyDFAxa-twwHaEU%26pid%3DApi&f=1",
   },
   {
-    id: 4,
+    id: 5,
     projectName: "Expedia Travel Clone",
     projectDesc: [
       "Expedia Group, Inc. is an American online travel shopping company for consumer and small business travel.",
@@ -72,22 +88,6 @@ export const projectsData = [
     demo: "https://officialsiddharthbisht.github.io/Expedia-Travel-Clone/",
     image:
       "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.Y2gvAVgkMcupwaefIabawQHaE6%26pid%3DApi&f=1",
-  },
-  {
-    id: 5,
-    projectName: "Tesla Clone",
-    projectDesc: [
-      "Tesla is accelerating the world's transition to sustainable energy with electric cars, solar and integrated renewable energy solutions for homes and businesses.",
-      [
-        "Solo Project",
-        "Made Tesla Landing Page",
-      ],
-    ],
-    tags: ["React", "Redux"],
-    code: "https://github.com/OfficialSiddharthBisht/tesla-clone",
-    demo: "https://tesla-clone-rho.vercel.app/",
-    image:
-      "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.f9OvjIR-m7YLjEqv-wJL-QHaJq%26pid%3DApi&f=1",
   },
   {
     id: 6,
