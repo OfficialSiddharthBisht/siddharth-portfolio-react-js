@@ -86,7 +86,7 @@ export const projectsData = [
     ],
     tags: ["React", "Redux"],
     code: "https://github.com/OfficialSiddharthBisht/tesla-clone",
-    demo: "https://officialsiddharthbisht.github.io/Expedia-Travel-Clone/",
+    demo: "https://tesla-clone-rho.vercel.app/",
     image:
       "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.f9OvjIR-m7YLjEqv-wJL-QHaJq%26pid%3DApi&f=1",
   },
