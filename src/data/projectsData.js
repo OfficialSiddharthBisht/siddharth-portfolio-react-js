@@ -105,6 +105,22 @@ export const projectsData = [
     image:
       "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.1VkjnHLGX38a5zirASIYWAHaFj%26pid%3DApi&f=1",
   },
+  {
+    id: 7,
+    projectName: "Cafe's Menu Application",
+    projectDesc: [
+      "A simple and minimilist menu application built in React JS.",
+      [
+        "Solo Project",
+        "React JS",
+      ],
+    ],
+    tags: ["React"],
+    code: "https://github.com/OfficialSiddharthBisht/qris-internship-assignment-cafe-menu",
+    demo: "https://qris-internship-assignment-cafe-menu.vercel.app/",
+    image:
+      "https://live.staticflickr.com/591/31374175083_6acbd2697b_b.jpg",
+  },
 ];
 
 // Do not remove any fields.
