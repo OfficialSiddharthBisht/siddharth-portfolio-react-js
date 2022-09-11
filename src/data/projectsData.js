@@ -107,6 +107,23 @@ export const projectsData = [
   },
   {
     id: 7,
+    projectName: "Amazon Clone",
+    projectDesc: [
+      "Amazon Clone In Progress",
+      [
+        "Solo Project",
+        "React JS",
+        "Firebase"
+      ],
+    ],
+    tags: ["React"],
+    code: "https://github.com/OfficialSiddharthBisht/amazon-clone",
+    demo: "https://amazon-clone-sandy-three.vercel.app/",
+    image:
+      "https://www.itprotoday.com/sites/itprotoday.com/files/amazon-logo-on-corner-of-building.jpg",
+  },
+  {
+    id: 8,
     projectName: "Cafe's Menu Application",
     projectDesc: [
       "A simple and minimilist menu application built in React JS.",
