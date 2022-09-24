@@ -44,20 +44,19 @@ export const projectsData = [
   },
   {
     id: 3,
-    projectName: "Lumen 5 Clone",
+    projectName: "Full Stack E Commerce Application",
     projectDesc: [
-      `Lumen5 is a video creation platform powered by A.I. that enables anyone to create engaging video content`,
+      "MERN Stack E commerce Application with all functionalities (In Progress)",
       [
-        "Team Lead",
-        "Responsive landing page",
-        "All Video Elements",
+        "Solo Project",
+        "Admin, User, Cart ,Filters, Search",
       ],
     ],
-    tags: ["JavaScript", "Tailwind", "HTML"],
-    code: "https://github.com/OfficialSiddharthBisht/Lumen5-Video-Maker-Clone",
-    demo: "https://officialsiddharthbisht.github.io/Lumen5-Video-Maker-Clone",
+    tags: ["React", "Redux","Express"],
+    code: "https://github.com/OfficialSiddharthBisht/E-Commerce-MERN-Stack",
+    demo: "https://e-commerce-siddharth.vercel.app/",
     image:
-      "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F50wheel.com%2Fwp-content%2Fuploads%2F2018%2F05%2Flumen5-3.png&f=1&nofb=1",
+      "https://th.bing.com/th/id/OIP.ndX5N2ZGLTLjQWV8gier8QHaFj?w=226&h=180&c=7&r=0&o=5&dpr=1.25&pid=1.7",
   },
   {
     id: 4,
@@ -138,6 +137,23 @@ export const projectsData = [
     image:
       "https://live.staticflickr.com/591/31374175083_6acbd2697b_b.jpg",
   },
+  {
+    id: 9,
+    projectName: "Lumen 5 Clone",
+    projectDesc: [
+      `Lumen5 is a video creation platform powered by A.I. that enables anyone to create engaging video content`,
+      [
+        "Team Lead",
+        "Responsive landing page",
+        "All Video Elements",
+      ],
+    ],
+    tags: ["JavaScript", "Tailwind", "HTML"],
+    code: "https://github.com/OfficialSiddharthBisht/Lumen5-Video-Maker-Clone",
+    demo: "https://officialsiddharthbisht.github.io/Lumen5-Video-Maker-Clone",
+    image:
+      "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F50wheel.com%2Fwp-content%2Fuploads%2F2018%2F05%2Flumen5-3.png&f=1&nofb=1",
+  }
 ];
 
 // Do not remove any fields.
