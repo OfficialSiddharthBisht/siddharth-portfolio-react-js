@@ -22,7 +22,7 @@ export const projectsData = [
     ],
     tags: ["React","Express","MongoDB","NodeJs"],
     code: "https://github.com/OfficialSiddharthBisht/nykaa-clone",
-    demo: "https://nykaa-web-app.netlify.app/",
+    demo: "https://nykaa-clone-siddharth.netlify.app/",
     image:
       "https://th.bing.com/th/id/OIP.eiIhwuSOWJvAgFDj0XOVtAHaDS?pid=ImgDet&rs=1",
   },
