@@ -240,6 +240,14 @@ function Navbar() {
                 </div>
               </NavLink>
             </Fade>
+            <Fade left>
+              <NavLink to="/#skills" smooth={true} spy="true" duration={2000}>
+                <div className={classes.drawerItem}>
+                  <HiOutlineDocumentText className={classes.drawerIcon} />
+                  <span className={classes.drawerLinks}>Skills</span>
+                </div>
+              </NavLink>
+            </Fade>
 
             <Fade left>
               <NavLink to="/#projects" smooth={true} spy="true" duration={2000}>
