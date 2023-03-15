@@ -10,9 +10,9 @@ import {
   // Testimonials,
   // Blog,
   Education,
-  // Experience,
+  Experience,
   Contacts,
-  Projects,
+  Projects
   // Services,
   // Achievement,
 } from "../../components";
@@ -24,6 +24,7 @@ function Main() {
       <Navbar />
       <Landing />
       <About />
+      <Experience />
       <Skills />
       {/* <Services /> */}
       <Education />
@@ -31,7 +32,6 @@ function Main() {
       {/* <Blog /> */}
       <Contacts />
       <Footer />
-      {/* <Experience /> */}
       {/* <Achievement /> */}
       {/* <Testimonials /> */}
     </div>

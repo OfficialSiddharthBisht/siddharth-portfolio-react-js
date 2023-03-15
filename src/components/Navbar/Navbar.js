@@ -30,7 +30,7 @@ function Navbar() {
     setHandleDrawer();
   };
 
-  const useStyles = makeStyles((t) => ({
+  const useStyles = makeStyles(t => ({
     navMenu: {
       position: "fixed",
       // top: 0,
@@ -41,14 +41,14 @@ function Navbar() {
       transform: "translateY(-10px)",
       transition: "color 0.3s",
       "&:hover": {
-        color: theme.primary,
+        color: theme.primary
       },
       [t.breakpoints.down("sm")]: {
-        fontSize: "2.5rem",
+        fontSize: "2.5rem"
       },
       [t.breakpoints.down("xs")]: {
-        fontSize: "2rem",
-      },
+        fontSize: "2rem"
+      }
     },
     MuiDrawer: {
       padding: "0em 1.8em",
@@ -62,8 +62,8 @@ function Navbar() {
       borderTopRightRadius: "40px",
       borderBottomRightRadius: "40px",
       [t.breakpoints.down("sm")]: {
-        width: "12em",
-      },
+        width: "12em"
+      }
     },
     closebtnIcon: {
       fontSize: "2rem",
@@ -75,12 +75,12 @@ function Navbar() {
       top: 40,
       transition: "color 0.2s",
       "&:hover": {
-        color: theme.tertiary,
+        color: theme.tertiary
       },
       [t.breakpoints.down("sm")]: {
         right: 20,
-        top: 20,
-      },
+        top: 20
+      }
     },
     drawerItem: {
       margin: "2rem auto",
@@ -99,13 +99,13 @@ function Navbar() {
       transition: "background-color 0.2s, color 0.2s",
       "&:hover": {
         background: theme.primary,
-        color: theme.secondary,
+        color: theme.secondary
       },
       [t.breakpoints.down("sm")]: {
         width: "100%",
         padding: "0 25px",
-        height: "55px",
-      },
+        height: "55px"
+      }
     },
     drawerLinks: {
       fontFamily: "var(--primaryFont)",
@@ -113,20 +113,20 @@ function Navbar() {
       fontSize: "1.3rem",
       fontWeight: 600,
       [t.breakpoints.down("sm")]: {
-        fontSize: "1.125rem",
-      },
+        fontSize: "1.125rem"
+      }
     },
     drawerIcon: {
       fontSize: "1.6rem",
       [t.breakpoints.down("sm")]: {
-        fontSize: "1.385rem",
-      },
-    },
+        fontSize: "1.385rem"
+      }
+    }
   }));
 
   const classes = useStyles();
 
-  const shortname = (name) => {
+  const shortname = name => {
     if (name.length > 12) {
       return name.split(" ")[0];
     } else {
@@ -166,7 +166,7 @@ function Navbar() {
         <div className="div-closebtn">
           <CloseIcon
             onClick={handleDrawerClose}
-            onKeyDown={(e) => {
+            onKeyDown={e => {
               if (e.key === " " || e.key === "Enter") {
                 e.preventDefault();
                 handleDrawerClose();
@@ -226,6 +226,20 @@ function Navbar() {
                 </div>
               </NavLink>
             </Fade> */}
+
+            <Fade left>
+              <NavLink
+                to="/#experience"
+                smooth={true}
+                spy="true"
+                duration={2000}
+              >
+                <div className={classes.drawerItem}>
+                  <HiOutlineDocumentText className={classes.drawerIcon} />
+                  <span className={classes.drawerLinks}>Experience</span>
+                </div>
+              </NavLink>
+            </Fade>
 
             <Fade left>
               <NavLink to="/#projects" smooth={true} spy="true" duration={2000}>
