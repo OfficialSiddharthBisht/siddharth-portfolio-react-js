@@ -1,4 +1,4 @@
-import resume from "../assets/pdf/Siddharth-Bisht-resume.pdf";
+import resume from "../assets/pdf/pw2_115-Siddharth-Bisht-Resume.pdf";
 import profileImg from "../assets/png/profileImg.png";
 
 export const headerData = {

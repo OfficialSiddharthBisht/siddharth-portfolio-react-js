@@ -15,7 +15,7 @@ import {
   FaGithub,
   FaYoutube,
   // FaBlogger,
-  FaMedium,
+  FaMedium
 } from "react-icons/fa";
 
 function Landing() {
@@ -37,11 +37,11 @@ function Landing() {
       "&:hover": {
         backgroundColor: theme.tertiary,
         color: theme.secondary,
-        border: `3px solid ${theme.tertiary}`,
+        border: `3px solid ${theme.tertiary}`
       },
       [t.breakpoints.down("sm")]: {
-        width: "180px",
-      },
+        width: "180px"
+      }
     },
     contactBtn: {
       backgroundColor: theme.primary,
@@ -59,12 +59,12 @@ function Landing() {
       "&:hover": {
         backgroundColor: theme.secondary,
         color: theme.tertiary,
-        border: `3px solid ${theme.tertiary}`,
+        border: `3px solid ${theme.tertiary}`
       },
       [t.breakpoints.down("sm")]: {
-        display: "none",
-      },
-    },
+        display: "none"
+      }
+    }
   }));
 
   const classes = useStyles();
@@ -130,7 +130,7 @@ function Landing() {
           className="landing--img"
           style={{
             opacity: `${drawerOpen ? "0" : "1"}`,
-            borderColor: theme.secondary,
+            borderColor: theme.secondary
           }}
         />
         <div
@@ -144,7 +144,7 @@ function Landing() {
                 color: theme.primary,
                 display: "flex",
                 margin: "10px 0px",
-                align: "center",
+                align: "center"
               }}
             >
               {" "}
@@ -155,10 +155,10 @@ function Landing() {
                     strings: [
                       "Full Stack Web Developer",
                       "MERN Stack Web Developer",
-                      "Web Developer",
+                      "Web Developer"
                     ],
                     autoStart: true,
-                    loop: true,
+                    loop: true
                   }}
                 />
               </div>
@@ -168,7 +168,6 @@ function Landing() {
             <div className="lcr-buttonContainer">
               {headerData.resumePdf && (
                 <a
-                  // href={`https://drive.google.com/file/d/1m7tbkTPrpJh3SY-ug-w1NFfKALWLt9zg/view?usp=sharing`}
                   href={`https://drive.google.com/drive/folders/12mA8HAOQ3ia-hx1iJRmogwJ7B6ES89dT`}
                   target="_blank"
                   rel="noreferrer"
