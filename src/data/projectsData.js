@@ -20,7 +20,7 @@ export const projectsData = [
         "Database using MongoDB"
       ]
     ],
-    tags: ["React", "Express", "MongoDB", "NodeJs"],
+    tags: ["React", "Express", "MongoDB"],
     code: "https://github.com/OfficialSiddharthBisht/nykaa-clone",
     demo: "https://nykaa-clone-siddharth.netlify.app/",
     image:
@@ -39,22 +39,19 @@ export const projectsData = [
     image:
       "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fid%3DOIP.f9OvjIR-m7YLjEqv-wJL-QHaJq%26pid%3DApi&f=1"
   },
-  // {
-  //   id: 3,
-  //   projectName: "Full Stack E Commerce Application",
-  //   projectDesc: [
-  //     "MERN Stack E commerce Application with all functionalities (In Progress)",
-  //     [
-  //       "Solo Project",
-  //       "Admin, User, Cart ,Filters, Search",
-  //     ],
-  //   ],
-  //   tags: ["React", "Redux","Express"],
-  //   code: "https://github.com/OfficialSiddharthBisht/E-Commerce-MERN-Stack",
-  //   demo: "https://e-commerce-siddharth.vercel.app/",
-  //   image:
-  //     "https://th.bing.com/th/id/OIP.ndX5N2ZGLTLjQWV8gier8QHaFj?w=226&h=180&c=7&r=0&o=5&dpr=1.25&pid=1.7",
-  // },
+  {
+    id: 10,
+    projectName: "E Commerce Backend NodeJS",
+    projectDesc: [
+      "E commerce Backend with all functionalities of an e commerce site",
+      ["Solo Project", "Admin, User, Cart ,Filters, Search, Products, Orders"]
+    ],
+    tags: ["MongoDB", "Express"],
+    code: "https://github.com/OfficialSiddharthBisht/e-commerce-backend",
+    demo: "https://github.com/OfficialSiddharthBisht/e-commerce-backend/wiki",
+    image:
+      "https://th.bing.com/th/id/OIP.ndX5N2ZGLTLjQWV8gier8QHaFj?w=226&h=180&c=7&r=0&o=5&dpr=1.25&pid=1.7"
+  },
   {
     id: 3,
     projectName: "Discovery+ Clone",
